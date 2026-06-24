@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @adeeshj2006
-- 👀 Passionate about AI/ML, robotics, and their integration for intelligent autonomous systems
-- 🌱 Currently exploring: ROS2-based robotics, computer vision, full-stack development, and artificial life simulations
-- 💻 Project experience: ROS2 drone control, stereo vision systems, Django e-commerce, AI chat apps, gravitational simulations, and artificial life simulations
-- 🔬 Focus: Bridging machine learning with robotic perception and control for real-world applications
-- 📫 How to reach me: email me at me24b074@smail.iitm.ac.in
+- Hi, I’m @adeeshj2006
+- Passionate about AI/ML, robotics, and their integration for intelligent autonomous systems
+- Currently exploring: ROS2-based robotics, computer vision, full-stack development, and artificial life simulations
+- Project experience: ROS2 drone control, stereo vision systems, Django e-commerce, AI chat apps, gravitational simulations, and artificial life simulations
+- Focus: Bridging machine learning with robotic perception and control for real-world applications
+- How to reach me: email me at me24b074@smail.iitm.ac.in
